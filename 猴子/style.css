@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(0, 0, 0);
+  color: rgb(9, 231, 20);
+}
+h1 {
+  color: rgb(235, 18, 18);
+}
+ul {
+  list-style-type: decimal;
+}
+.orange {
+  color: orange;
+}
+a:hover {
+  color: gray;
+}
+a {
+  color: aqua;
+}
+.container {
+  background-color: rgba(17, 114, 206, 0.397);
+  width: auto;
+  height: 70px;
+  border: 10px solid rgb(2, 90, 204);
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+.item1 {
+  background-color: antiquewhite;
+  color: blueviolet;
+  width: 100px;
+  text-align: center;
+  margin: auto 0;
+  font-size: large;
+  font-style: normal;
+}
+.item2 {
+  background-color: antiquewhite;
+  color: blueviolet;
+  width: 100px;
+  text-align: center;
+  margin: auto 0;
+  font-size: large;
+  font-style: normal;
+}
+.item3 {
+  background-color: antiquewhite;
+  color: blueviolet;
+  width: 100px;
+  text-align: center;
+  margin: auto 0;
+  font-size: large;
+  font-style: normal;
+}
